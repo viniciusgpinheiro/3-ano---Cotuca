@@ -1,0 +1,15 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: background_level021.png (1024 x 512)
+# $TexturePacker:SmartUpdate:78e123e0b427b7b7908e8d342a08c78a:e04e2b1b44d5742204c854d9e60f6981:ed203eb7009f3e474a5154fa5c7d379f$
+#
+
+slice02_02;0;393;640;119;0;0
+slice03_03;0;299;640;92;0;0
+slice04_04;0;164;640;60;0;0
+slice05_05;0;106;640;56;0;0
+slice10_10;0;226;640;71;0;0

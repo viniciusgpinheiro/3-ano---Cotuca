@@ -1,0 +1,1389 @@
+fileFormatVersion: 2
+guid: 500d2340ce72a4792bfac3212526f4de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: chrisbike_68px_0
+  - first:
+      213: 21300002
+    second: chrisbike_68px_1
+  - first:
+      213: 21300004
+    second: chrisbike_68px_2
+  - first:
+      213: 21300006
+    second: chrisbike_68px_3
+  - first:
+      213: 21300008
+    second: chrisbike_68px_4
+  - first:
+      213: 21300010
+    second: chrisbike_68px_5
+  - first:
+      213: 21300012
+    second: chrisbike_68px_6
+  - first:
+      213: 21300014
+    second: chrisbike_68px_7
+  - first:
+      213: 21300016
+    second: chrisbike_68px_8
+  - first:
+      213: 21300018
+    second: chrisbike_68px_9
+  - first:
+      213: 21300020
+    second: chrisbike_68px_10
+  - first:
+      213: 21300022
+    second: chrisbike_68px_11
+  - first:
+      213: 21300024
+    second: chrisbike_68px_12
+  - first:
+      213: 21300026
+    second: chrisbike_68px_13
+  - first:
+      213: 21300028
+    second: chrisbike_68px_14
+  - first:
+      213: 21300030
+    second: chrisbike_68px_15
+  - first:
+      213: 21300032
+    second: chrisbike_68px_16
+  - first:
+      213: 21300034
+    second: chrisbike_68px_17
+  - first:
+      213: 21300036
+    second: chrisbike_68px_18
+  - first:
+      213: 21300038
+    second: chrisbike_68px_19
+  - first:
+      213: 21300040
+    second: chrisbike_68px_20
+  - first:
+      213: 21300042
+    second: chrisbike_68px_21
+  - first:
+      213: 21300044
+    second: chrisbike_68px_22
+  - first:
+      213: 21300046
+    second: chrisbike_68px_23
+  - first:
+      213: 21300048
+    second: chrisbike_68px_24
+  - first:
+      213: 21300050
+    second: chrisbike_68px_25
+  - first:
+      213: 21300052
+    second: chrisbike_68px_26
+  - first:
+      213: 21300054
+    second: chrisbike_68px_27
+  - first:
+      213: 21300056
+    second: chrisbike_68px_28
+  - first:
+      213: 21300058
+    second: chrisbike_68px_29
+  - first:
+      213: 21300060
+    second: chrisbike_68px_30
+  - first:
+      213: 21300062
+    second: chrisbike_68px_31
+  - first:
+      213: 21300064
+    second: chrisbike_68px_32
+  - first:
+      213: 21300066
+    second: chrisbike_68px_33
+  - first:
+      213: 21300068
+    second: chrisbike_68px_34
+  - first:
+      213: 21300070
+    second: chrisbike_68px_35
+  - first:
+      213: 21300072
+    second: chrisbike_68px_36
+  - first:
+      213: 21300074
+    second: chrisbike_68px_37
+  - first:
+      213: 21300076
+    second: chrisbike_68px_38
+  - first:
+      213: 21300078
+    second: chrisbike_68px_39
+  - first:
+      213: 21300080
+    second: chrisbike_68px_40
+  - first:
+      213: 21300082
+    second: chrisbike_68px_41
+  - first:
+      213: 21300084
+    second: chrisbike_68px_42
+  - first:
+      213: 21300086
+    second: chrisbike_68px_43
+  - first:
+      213: 21300088
+    second: chrisbike_68px_44
+  - first:
+      213: 21300090
+    second: chrisbike_68px_45
+  - first:
+      213: 21300092
+    second: chrisbike_68px_46
+  - first:
+      213: 21300094
+    second: chrisbike_68px_47
+  - first:
+      213: 21300096
+    second: chrisbike_68px_48
+  - first:
+      213: 21300098
+    second: chris_bike_68px_0
+  - first:
+      213: 21300100
+    second: chris_bike_68px_1
+  - first:
+      213: 21300102
+    second: chris_bike_68px_2
+  - first:
+      213: 21300104
+    second: chris_bike_68px_3
+  - first:
+      213: 21300106
+    second: chris_bike_68px_4
+  - first:
+      213: 21300108
+    second: chris_bike_68px_5
+  - first:
+      213: 21300110
+    second: chris_bike_68px_6
+  - first:
+      213: 21300112
+    second: chris_bike_68px_7
+  - first:
+      213: 21300114
+    second: chris_bike_68px_8
+  - first:
+      213: 21300116
+    second: chris_bike_68px_9
+  - first:
+      213: 21300118
+    second: chris_bike_68px_10
+  - first:
+      213: 21300120
+    second: chris_bike_68px_11
+  - first:
+      213: 21300122
+    second: chris_bike_68px_12
+  - first:
+      213: 21300124
+    second: chris_bike_68px_13
+  - first:
+      213: 21300126
+    second: chris_bike_68px_14
+  - first:
+      213: 21300128
+    second: chris_bike_68px_15
+  - first:
+      213: 21300130
+    second: chris_bike_68px_16
+  - first:
+      213: 21300132
+    second: chris_bike_68px_17
+  - first:
+      213: 21300134
+    second: chris_bike_68px_18
+  - first:
+      213: 21300136
+    second: chris_bike_68px_19
+  - first:
+      213: 21300138
+    second: chris_bike_68px_20
+  - first:
+      213: 21300140
+    second: chris_bike_68px_21
+  - first:
+      213: 21300142
+    second: chris_bike_68px_22
+  - first:
+      213: 21300144
+    second: chris_bike_68px_23
+  - first:
+      213: 21300146
+    second: chris_bike_68px_24
+  - first:
+      213: 21300148
+    second: chris_bike_68px_25
+  - first:
+      213: 21300150
+    second: chris_bike_68px_26
+  - first:
+      213: 21300152
+    second: chris_bike_68px_27
+  - first:
+      213: 21300154
+    second: chris_bike_68px_28
+  - first:
+      213: 21300156
+    second: chris_bike_68px_29
+  - first:
+      213: 21300158
+    second: chris_bike_68px_30
+  - first:
+      213: 21300160
+    second: chris_bike_68px_31
+  - first:
+      213: 21300162
+    second: chris_bike_68px_32
+  - first:
+      213: 21300164
+    second: chris_bike_68px_33
+  - first:
+      213: 21300166
+    second: chris_bike_68px_34
+  - first:
+      213: 21300168
+    second: chris_bike_68px_35
+  - first:
+      213: 21300170
+    second: chris_bike_68px_36
+  - first:
+      213: 21300172
+    second: chris_bike_68px_37
+  - first:
+      213: 21300174
+    second: chris_bike_68px_38
+  - first:
+      213: 21300176
+    second: chris_bike_68px_39
+  - first:
+      213: 21300178
+    second: chris_bike_68px_40
+  - first:
+      213: 21300180
+    second: chris_bike_68px_41
+  - first:
+      213: 21300182
+    second: chris_bike_68px_42
+  - first:
+      213: 21300184
+    second: chris_bike_68px_43
+  - first:
+      213: 21300186
+    second: chris_bike_68px_44
+  - first:
+      213: 21300188
+    second: chris_bike_68px_45
+  - first:
+      213: 21300190
+    second: chris_bike_68px_46
+  - first:
+      213: 21300192
+    second: chris_bike_68px_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chris_bike_68px_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ea9a7bb2e446e18a222a73f1701ad
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16426c213e48c4012a33bfa61f101a82
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b4fefe7a67471d841724684bf0da7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e05dd5b55ee54dbb90c704673f486de
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57025e60f3e404bba8daa1c6557c14be
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b47eaa4adb24681bc216317b305c6b
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 444
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263df3f0aef784f488e68fad1c97bccf
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25edf1721458f46a3864b3f8ed1f9b7e
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6d22999d964db38598e2418efae0c
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffd73f7c0334a2ea9d9d1ecd1e3189
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d68bae96df942ad891bf12103f8311
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4015f263dfc0a45ab92d90677c60cd37
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc1cb32d0964a4b9d76627d46d0444
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 376
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4813949bcda42f5abf6ee32cbfaf0a
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09683fa5fd5d4a4bb6fceecd29f18e6
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9de72c51cf914f66aa058583649aa7f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075d0da437ed4c06a68ea3a075e49e5
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6418268e0c84c7589ec5f841ea5764
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7122ba92df27947b4a499dfcf555971b
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 308
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac443a72bfba4c77bc84b8b899a147e
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5a33fc7a33c43bdb528352639f6c90
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013d92056158479cabd1e423f0c2b27
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3501fc25084b14e18a9fdb5fe2f0ad87
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a130a7df1d63408da8bf6a3b38dc15e
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3affb38c702400d8bbe2fc78c3e88e
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9867a8c7d292648d0bd8e3fd20eed93a
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 240
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f237b30ebd4b9ebee0879854d5356
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59448d40c04d0427ca08b1f92327be89
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47e7c59c24fb4fa292700d779a9f8f5
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac97f31d11a0c4a6e8b3d5b0a3748ec5
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bcdad301b514c9b8d8b68b9e1f8487
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3e205e98c1a4205bac5cefd5e3aebc
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f2421bc1f34d0c9e23c93c63615ae
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 172
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b4bfdc776d476aa33da6480b62abc
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b05575e3358b462392794e4563b589b
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93ce4073295f433a97945a1f3f916af
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd0d9b6a00294d539ff5191f148fad8
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5bc80a668b042b7968a7b357312a7f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e15f5822714e06b38b479e6ece9be
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_39
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ec711abb654ad0a247851e50981bc
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4605e37c33c4a9c8c6e55b766dfad3
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f62a6c230343c490010f11caa17a6
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d8c97de4714274bf3c7d25fa66833
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bda6cf0e682470199ee6e3760fd0cf
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b9d726a10640e88dd632995bf1dd5
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcda87b0a2db148ef8de88a8b1f0bf41
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daabc48efbed44bee9b547e187389d00
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chris_bike_68px_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 36
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1704975f324164efc914eeffb795e30e
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: db0a3687d67e82d448d3a39b0d09e2c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cochepoli190x113_0
+  - first:
+      213: 21300002
+    second: cochepoli190x113_1
+  - first:
+      213: 21300004
+    second: cochepoli190x113_2
+  - first:
+      213: 21300006
+    second: cochepoli190x113_3
+  - first:
+      213: 21300008
+    second: cochepoli190x113_4
+  - first:
+      213: 21300010
+    second: cochepoli190x113_5
+  - first:
+      213: 21300012
+    second: cochepoli190x113_6
+  - first:
+      213: 21300014
+    second: cochepoli190x113_7
+  - first:
+      213: 21300016
+    second: cochepoli190x113_8
+  - first:
+      213: 21300018
+    second: cochepoli190x113_9
+  - first:
+      213: 21300020
+    second: cochepoli190x113_10
+  - first:
+      213: 21300022
+    second: cochepoli190x113_11
+  - first:
+      213: 21300024
+    second: cochepoli190x113_12
+  - first:
+      213: 21300026
+    second: cochepoli190x113_13
+  - first:
+      213: 21300028
+    second: cochepoli190x113_14
+  - first:
+      213: 21300030
+    second: cochepoli190x113_15
+  - first:
+      213: 21300032
+    second: cochepoli190x113_16
+  - first:
+      213: 21300034
+    second: cochepoli190x113_17
+  - first:
+      213: 21300036
+    second: cochepoli190x113_18
+  - first:
+      213: 21300038
+    second: cochepoli190x113_19
+  - first:
+      213: 21300040
+    second: cochepoli190x113_20
+  - first:
+      213: 21300042
+    second: cochepoli190x113_21
+  - first:
+      213: 21300044
+    second: cochepoli190x113_22
+  - first:
+      213: 21300046
+    second: cochepoli190x113_23
+  - first:
+      213: 21300048
+    second: cochepoli190x113_24
+  - first:
+      213: 21300050
+    second: cochepoli190x113_25
+  - first:
+      213: 21300052
+    second: cochepoli190x113_26
+  - first:
+      213: 21300054
+    second: cochepoli190x113_27
+  - first:
+      213: 21300056
+    second: cochepoli190x113_28
+  - first:
+      213: 21300058
+    second: cochepoli190x113_29
+  - first:
+      213: 21300060
+    second: cochepoli190x113_30
+  - first:
+      213: 21300062
+    second: cochepoli190x113_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 8
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cochepoli190x113_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0985eab57ab64b12b46a5eb2a26fc20
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 911
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c206b3865ac0474080824da319df29e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 911
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a8030c915943589fc601f347f0e0c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 911
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b732be66c053e44ffa4e1d4ffb6dd6a8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 911
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3fc1b23ff494998a5f52231e39427c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f83621c87374a618ff58665958cfe6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 798
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36987536f230142699c645eb9a97b31a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 798
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db57d2ef859d04852ac260182279d40d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 798
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a308a335a883a49ff80a198a3b58e95e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 798
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177be99a632e447c193acc122e7da77e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e189c3eb35124295ae76df234a1b8b0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 685
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130b3a53a48fc458a91bebe1bad2a05f
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 685
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c21fad9d142d47399485f73ee7c435f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 685
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1936c70f63a43408b9380b92744172
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_14
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 685
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5581872a854f1d8e11ca4c573e852
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ced8f92c8043f6822c8151c74b179
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 572
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262584c764e014c0aaa04058a53f3e2f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 572
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c2e3c9900a4c0bacd78e88a5ec4c4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 572
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc76f95947ad845018e74349c264a63f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 572
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb7fff44e7846c79468b2e5ad5babc
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e436b1c5dc3854fd187b4d3fb99eb0e5
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 459
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44668510ce1f41daa7630c4d69fa8be
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 459
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3163236fee554666b4fe6625a23b3b6
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 459
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab2ce6679d43478eb95fa3803267bc6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_24
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 459
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0498e145061485eb4f7d00726d2f12
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d91f4fbd92478a9bb16de3d83ab1d
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 346
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf88c719ef26f4dcbb0ce810870a148b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 346
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a44da8ef1fd4488a81a7e2d7621f4d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 346
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c6266ddd644441e8541963deda1496
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 346
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6962d207ea12d45d59a10b06b1db9b8a
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e70053e1c9ae4a6a8997323fd9da252
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cochepoli190x113_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 233
+        width: 190
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a3e79f2395043dfabe5efc222c182d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
