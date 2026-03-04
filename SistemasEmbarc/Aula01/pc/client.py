@@ -19,7 +19,7 @@ try:
     print('Enviando requisição...\n')
     data = sock.recv(4096)
     print(data.decode())
-    
+
 except OSError as e:
     print('Socket error:', e)
 
