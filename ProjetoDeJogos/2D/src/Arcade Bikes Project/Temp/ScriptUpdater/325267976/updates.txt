@@ -1,0 +1,4 @@
+Temp/ScriptUpdater/325267976/1324332327_ArcadeCone.cs => Assets/Scripts/Interactive/ArcadeCone.cs
+Temp/ScriptUpdater/325267976/482042995_ObstacleGenerator.cs => Assets/Scripts/Managers/ObstacleGenerator.cs
+Temp/ScriptUpdater/325267976/137756448_ObstacleGeneratorManager.cs => Assets/Scripts/Managers/ObstacleGeneratorManager.cs
+Temp/ScriptUpdater/325267976/1980010313_ChrisArcadeBikeController.cs => Assets/Scripts/ChrisArcadeBikeController.cs
