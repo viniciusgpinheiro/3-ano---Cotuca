@@ -1,11 +1,11 @@
-import network
-import esp
+import network 
+import esp 
 import gc 
-from time import sleep
-try:
-    import usocket as socket
-except:
-    import socket
+from time import sleep 
+try: 
+    import usocket as socket 
+except: 
+    import socket 
 
 
 esp.osdebug(None)
