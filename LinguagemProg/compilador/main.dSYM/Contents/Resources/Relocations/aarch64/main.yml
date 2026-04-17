@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/u24159/Documents/GitHub/3-ano---Cotuca/LinguagemProg/compilador/main'
+relocations:     []
+...
